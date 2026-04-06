@@ -1,6 +1,8 @@
 # Panel-Link USB Graphics Driver
 
-A USB graphics driver based on **IddCx (Indirect Display Driver Class Extension)** and **UMDF**, designed for BeadaPanel USB display devices.  
+A USB graphics driver based on **IddCx (Indirect Display Driver Class Extension)** and **UMDF**, designed for BeadaPanel USB display devices.
+
+<img src="https://raw.githubusercontent.com/JT365/Panel-Link_USB_Graphics_Driver/main/windows.png" width="800"><br><br>
 This project provides a complete implementation of a USB‑to‑virtual‑display pipeline, including device communication, mode negotiation, and frame transmission.
 
 ---
